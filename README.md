@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NGO- Website**
 
-- 🌱 I’m currently learning **DSA,JS**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **adityatripathi2507@gmail.com**
 
