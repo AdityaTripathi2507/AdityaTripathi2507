@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityatripathi2507&label=Profile%20views&color=0e75b6&style=flat" alt="adityatripathi2507" /> </p>
 
-- 🔭 I’m currently working on **Creating my own portfolio**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **adityatripathi2507@gmail.com**
 
